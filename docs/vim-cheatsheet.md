@@ -1,7 +1,7 @@
 ## Global
 :help keyword – open help for keyword
 :o file – open file
-:saveas file – save file as
+:saveas file – save file as 
 :close – close current window
 
 ## Cursor Movements
